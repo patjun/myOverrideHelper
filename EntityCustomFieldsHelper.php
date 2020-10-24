@@ -10,7 +10,7 @@
 /**
  * Class EntityFieldsHelper
  */
-class EntityFieldsHelper
+class EntityCustomFieldsHelper
 {
 
     private $fields;
